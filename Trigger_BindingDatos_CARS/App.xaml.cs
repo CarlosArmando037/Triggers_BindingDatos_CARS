@@ -11,7 +11,7 @@ namespace Trigger_BindingDatos_CARS
         {
             InitializeComponent();
 
-            MainPage = new PaginaCategoria();
+            MainPage = new Categoria();
         }
 
         protected override void OnStart()

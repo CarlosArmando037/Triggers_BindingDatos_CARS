@@ -23,7 +23,6 @@ C:\Users\cd17\Desktop\Carlos Armando\Trigger_BindingDatos_CARS\Trigger_BindingDa
 C:\Users\cd17\Desktop\Carlos Armando\Trigger_BindingDatos_CARS\Trigger_BindingDatos_CARS\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\cd17\Desktop\Carlos Armando\Trigger_BindingDatos_CARS\Trigger_BindingDatos_CARS\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
 C:\Users\cd17\Desktop\Carlos Armando\Trigger_BindingDatos_CARS\Trigger_BindingDatos_CARS\obj\Debug\netstandard2.0\Vistas\Categoria.xaml.g.cs
-C:\Users\cd17\Desktop\Carlos Armando\Trigger_BindingDatos_CARS\Trigger_BindingDatos_CARS\obj\Debug\netstandard2.0\Vistas\PaginaCategoria.xaml.g.cs
 C:\Users\cd17\Desktop\Carlos Armando\Trigger_BindingDatos_CARS\Trigger_BindingDatos_CARS\obj\Debug\netstandard2.0\Trigger_BindingDatos_CARS.AssemblyInfoInputs.cache
 C:\Users\cd17\Desktop\Carlos Armando\Trigger_BindingDatos_CARS\Trigger_BindingDatos_CARS\obj\Debug\netstandard2.0\Trigger_BindingDatos_CARS.AssemblyInfo.cs
 C:\Users\cd17\Desktop\Carlos Armando\Trigger_BindingDatos_CARS\Trigger_BindingDatos_CARS\obj\Debug\netstandard2.0\Trigger_BindingDatos_CARS.csproj.CoreCompileInputs.cache
