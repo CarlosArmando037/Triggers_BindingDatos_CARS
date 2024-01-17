@@ -1,0 +1,34 @@
+C:\Users\cd17\Desktop\Carlos Armando\Desarrollo Movil Multiplataforma\Trigger_BindingDatos_CARS\Trigger_BindingDatos_CARS\bin\Debug\netstandard2.0\Trigger_BindingDatos_CARS.deps.json
+C:\Users\cd17\Desktop\Carlos Armando\Desarrollo Movil Multiplataforma\Trigger_BindingDatos_CARS\Trigger_BindingDatos_CARS\bin\Debug\netstandard2.0\Trigger_BindingDatos_CARS.dll
+C:\Users\cd17\Desktop\Carlos Armando\Desarrollo Movil Multiplataforma\Trigger_BindingDatos_CARS\Trigger_BindingDatos_CARS\bin\Debug\netstandard2.0\Trigger_BindingDatos_CARS.pdb
+C:\Users\cd17\Desktop\Carlos Armando\Desarrollo Movil Multiplataforma\Trigger_BindingDatos_CARS\Trigger_BindingDatos_CARS\obj\Debug\netstandard2.0\Trigger_BindingDatos_CARS.csproj.AssemblyReference.cache
+C:\Users\cd17\Desktop\Carlos Armando\Desarrollo Movil Multiplataforma\Trigger_BindingDatos_CARS\Trigger_BindingDatos_CARS\obj\Debug\netstandard2.0\Trigger_BindingDatos_CARS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cd17\Desktop\Carlos Armando\Desarrollo Movil Multiplataforma\Trigger_BindingDatos_CARS\Trigger_BindingDatos_CARS\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\cd17\Desktop\Carlos Armando\Desarrollo Movil Multiplataforma\Trigger_BindingDatos_CARS\Trigger_BindingDatos_CARS\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\cd17\Desktop\Carlos Armando\Desarrollo Movil Multiplataforma\Trigger_BindingDatos_CARS\Trigger_BindingDatos_CARS\obj\Debug\netstandard2.0\Vistas\Categoria.xaml.g.cs
+C:\Users\cd17\Desktop\Carlos Armando\Desarrollo Movil Multiplataforma\Trigger_BindingDatos_CARS\Trigger_BindingDatos_CARS\obj\Debug\netstandard2.0\Vistas\PaginaCategoria.xaml.g.cs
+C:\Users\cd17\Desktop\Carlos Armando\Desarrollo Movil Multiplataforma\Trigger_BindingDatos_CARS\Trigger_BindingDatos_CARS\obj\Debug\netstandard2.0\Trigger_BindingDatos_CARS.AssemblyInfoInputs.cache
+C:\Users\cd17\Desktop\Carlos Armando\Desarrollo Movil Multiplataforma\Trigger_BindingDatos_CARS\Trigger_BindingDatos_CARS\obj\Debug\netstandard2.0\Trigger_BindingDatos_CARS.AssemblyInfo.cs
+C:\Users\cd17\Desktop\Carlos Armando\Desarrollo Movil Multiplataforma\Trigger_BindingDatos_CARS\Trigger_BindingDatos_CARS\obj\Debug\netstandard2.0\Trigger_BindingDatos_CARS.csproj.CoreCompileInputs.cache
+C:\Users\cd17\Desktop\Carlos Armando\Desarrollo Movil Multiplataforma\Trigger_BindingDatos_CARS\Trigger_BindingDatos_CARS\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\cd17\Desktop\Carlos Armando\Desarrollo Movil Multiplataforma\Trigger_BindingDatos_CARS\Trigger_BindingDatos_CARS\obj\Debug\netstandard2.0\Trigger_BindingDatos_CARS.dll
+C:\Users\cd17\Desktop\Carlos Armando\Desarrollo Movil Multiplataforma\Trigger_BindingDatos_CARS\Trigger_BindingDatos_CARS\obj\Debug\netstandard2.0\refint\Trigger_BindingDatos_CARS.dll
+C:\Users\cd17\Desktop\Carlos Armando\Desarrollo Movil Multiplataforma\Trigger_BindingDatos_CARS\Trigger_BindingDatos_CARS\obj\Debug\netstandard2.0\Trigger_BindingDatos_CARS.pdb
+C:\Users\cd17\Desktop\Carlos Armando\Desarrollo Movil Multiplataforma\Trigger_BindingDatos_CARS\Trigger_BindingDatos_CARS\obj\Debug\netstandard2.0\ref\Trigger_BindingDatos_CARS.dll
+C:\Users\cd17\Desktop\Carlos Armando\Trigger_BindingDatos_CARS\Trigger_BindingDatos_CARS\bin\Debug\netstandard2.0\Trigger_BindingDatos_CARS.deps.json
+C:\Users\cd17\Desktop\Carlos Armando\Trigger_BindingDatos_CARS\Trigger_BindingDatos_CARS\bin\Debug\netstandard2.0\Trigger_BindingDatos_CARS.dll
+C:\Users\cd17\Desktop\Carlos Armando\Trigger_BindingDatos_CARS\Trigger_BindingDatos_CARS\bin\Debug\netstandard2.0\Trigger_BindingDatos_CARS.pdb
+C:\Users\cd17\Desktop\Carlos Armando\Trigger_BindingDatos_CARS\Trigger_BindingDatos_CARS\obj\Debug\netstandard2.0\Trigger_BindingDatos_CARS.csproj.AssemblyReference.cache
+C:\Users\cd17\Desktop\Carlos Armando\Trigger_BindingDatos_CARS\Trigger_BindingDatos_CARS\obj\Debug\netstandard2.0\Trigger_BindingDatos_CARS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cd17\Desktop\Carlos Armando\Trigger_BindingDatos_CARS\Trigger_BindingDatos_CARS\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\cd17\Desktop\Carlos Armando\Trigger_BindingDatos_CARS\Trigger_BindingDatos_CARS\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\cd17\Desktop\Carlos Armando\Trigger_BindingDatos_CARS\Trigger_BindingDatos_CARS\obj\Debug\netstandard2.0\Vistas\Categoria.xaml.g.cs
+C:\Users\cd17\Desktop\Carlos Armando\Trigger_BindingDatos_CARS\Trigger_BindingDatos_CARS\obj\Debug\netstandard2.0\Vistas\PaginaCategoria.xaml.g.cs
+C:\Users\cd17\Desktop\Carlos Armando\Trigger_BindingDatos_CARS\Trigger_BindingDatos_CARS\obj\Debug\netstandard2.0\Trigger_BindingDatos_CARS.AssemblyInfoInputs.cache
+C:\Users\cd17\Desktop\Carlos Armando\Trigger_BindingDatos_CARS\Trigger_BindingDatos_CARS\obj\Debug\netstandard2.0\Trigger_BindingDatos_CARS.AssemblyInfo.cs
+C:\Users\cd17\Desktop\Carlos Armando\Trigger_BindingDatos_CARS\Trigger_BindingDatos_CARS\obj\Debug\netstandard2.0\Trigger_BindingDatos_CARS.csproj.CoreCompileInputs.cache
+C:\Users\cd17\Desktop\Carlos Armando\Trigger_BindingDatos_CARS\Trigger_BindingDatos_CARS\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\cd17\Desktop\Carlos Armando\Trigger_BindingDatos_CARS\Trigger_BindingDatos_CARS\obj\Debug\netstandard2.0\Trigger_BindingDatos_CARS.dll
+C:\Users\cd17\Desktop\Carlos Armando\Trigger_BindingDatos_CARS\Trigger_BindingDatos_CARS\obj\Debug\netstandard2.0\refint\Trigger_BindingDatos_CARS.dll
+C:\Users\cd17\Desktop\Carlos Armando\Trigger_BindingDatos_CARS\Trigger_BindingDatos_CARS\obj\Debug\netstandard2.0\Trigger_BindingDatos_CARS.pdb
+C:\Users\cd17\Desktop\Carlos Armando\Trigger_BindingDatos_CARS\Trigger_BindingDatos_CARS\obj\Debug\netstandard2.0\ref\Trigger_BindingDatos_CARS.dll

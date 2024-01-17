@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ELDk+KfYlpnaErqWK4FZYYA64ck3oO0T/JjG0WQL0ehvTmtnb5/H/5nC7xbBCgNQEkLwmn5R2wKV+/9ys+i1+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cd17\\Desktop\\Carlos Armando\\Trigger_BindingDatos_CARS\\Trigger_BindingDatos_CARS\\Trigger_BindingDatos_CARS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cd17\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\cd17\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\cd17\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\cd17\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\cd17\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
